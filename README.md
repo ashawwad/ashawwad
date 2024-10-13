@@ -5,7 +5,9 @@
 
 - 🔭 I am specialize in **AI cloud solutions, software architecture, and digital transformation**.
 
-- 🌟 I am passionate about **AI solutions, Generative AI, and Large Language Models**. 
+- 🌟 I am passionate about **AI solutions, Generative AI, and Large Language Models**.
+
+- 🌟 I am also passionate about **Sketching, Drawing, and Digital Illustrations**.
 
 - 💬 Ask me about **AI-driven software solutions, and digital transformation**.
 
