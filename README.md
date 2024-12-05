@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashrafawwad&label=Profile%20views&color=0e75b6&style=flat" alt="ashrafawwad" /> </p>
 
-- 🔭 I am specialize in **AI cloud solutions, software architecture, and digital transformation**.
+- 🔭 I am specialize in **AI, cloud solutions, software architecture, and digital transformation**.
 
 - 🌟 I am passionate about **AI solutions, Generative AI, and Large Language Models**.
 
