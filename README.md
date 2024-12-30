@@ -9,13 +9,14 @@
 
 - 🌟 I am also passionate about **Sketching, Drawing, and Digital Illustrations**.
 
-- 🌟 I excel on generating new ideas here is **my <a href="https://patents.google.com/?inventor=Mahmoud+Mohamed+Ahmed+Awwad+Ashraf">Google inventor (patents) page</a>**.
+- ⚡ Fun fact: **I have authored two books on Amazon and co-invented three US patents.**
+
+  here is **my <a href="https://patents.google.com/?inventor=Mahmoud+Mohamed+Ahmed+Awwad+Ashraf">Google inventor (patents) page</a>**.
 
 - 💬 Ask me about **AI-driven software solutions, and digital transformation**.
 
 - 📫 How to reach me: **aawaad@gmail.com**
 
-- ⚡ Fun fact: **I have authored two books on Amazon and co-invented three US patents.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
